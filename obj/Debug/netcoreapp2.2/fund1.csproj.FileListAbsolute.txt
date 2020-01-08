@@ -1,0 +1,11 @@
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\bin\Debug\netcoreapp2.2\fund1.deps.json
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\bin\Debug\netcoreapp2.2\fund1.runtimeconfig.json
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\bin\Debug\netcoreapp2.2\fund1.runtimeconfig.dev.json
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\bin\Debug\netcoreapp2.2\fund1.dll
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\bin\Debug\netcoreapp2.2\fund1.pdb
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\obj\Debug\netcoreapp2.2\fund1.csprojAssemblyReference.cache
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\obj\Debug\netcoreapp2.2\fund1.csproj.CoreCompileInputs.cache
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\obj\Debug\netcoreapp2.2\fund1.AssemblyInfoInputs.cache
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\obj\Debug\netcoreapp2.2\fund1.AssemblyInfo.cs
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\obj\Debug\netcoreapp2.2\fund1.dll
+C:\Users\dropi_000\Desktop\dotNetStack\Fundamentals\fund1\fund1\obj\Debug\netcoreapp2.2\fund1.pdb
